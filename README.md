@@ -6,7 +6,7 @@ ls <br>
 cd (dir name) <br>
 - change dir <br>
 mkdir (dir name) <br>
-- crate new dir <br>
+- create new dir <br>
 
 ## git
 status <br>
@@ -20,5 +20,6 @@ push <br>
 - publish or share <br>
 log <br>
 - general log for all commits <br>
+- to quit from log press 'q' <br>
 
 *repo: every file and every folder in the project
